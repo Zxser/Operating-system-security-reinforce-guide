@@ -4,15 +4,9 @@ Linux网络基础架构
 
 常见的UDP端口号
 
-![](/assets/1-4.png)Linux
+![](/assets/1-4.png)Linux的网络配置文件
+
+![](/assets/1-5.png)
 
 Linux具体的端口号可以通过查看/etc/services进行筛选
-
-
-
-
-
-
-
-
 
