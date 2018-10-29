@@ -4,7 +4,9 @@
 
 # 提供AIX、Linux、Windows操作系统的安全加固服务
 
-mengqingyu-sdxc
+
+
+本项目主要维护者:mengqy-sdxc
 
 项目开始于2018年10月29日
 
