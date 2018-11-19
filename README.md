@@ -2,7 +2,7 @@
 
 # [**Operating-system-security-reinforce-guide**](https://github.com/mengdaya/Operating-system-security-reinforce-guide)
 
-# 提供AIX、Linux\(RHEL\)、Windows操作系统的安全加固服务
+# 提供AIX、RHEL、Windows操作系统的安全加固服务
 
 本项目主要维护者:mengqy-sdxc
 
